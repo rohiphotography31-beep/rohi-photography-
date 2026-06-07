@@ -1,0 +1,8 @@
+{
+  "name": "Rohi Photography Lucknow",
+  "description": "Premium Wedding Photography & Cinematic Videography Website for Rohi Photography Lucknow based in Uttar Pradesh",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
